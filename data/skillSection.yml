@@ -1,0 +1,26 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Here's where I can help
+
+  
+image: images/hero/Ola_Akinpelu_1.jpg
+
+skill:
+  - title: R
+    percent: 85
+  - title: Shiny Apps
+    percent: 80
+  - title: SQL
+    percent: 80
+  - title: Tableau
+    percent: 80
+  - title: Power BI
+    percent: 75
+  - title: SAS
+    percent: 75
+  - title: Databricks
+    percent: 60
+  - title: Python
+    percent: 55

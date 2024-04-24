@@ -1,0 +1,27 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Ola?
+
+  Ola Akinpelu is a business-forward problem solver, who uses statistical modeling and predictive analytics to solve business challenges.
+content: >
+  #### I create value for companies by understanding the financial cost of problems 
+  and delivering a return-on-investment with data solutions. 
+  
+  I design and build visually appealing and informative web applications, reports, 
+  and dashboards that facilitate strategic decision-making.
+  
+  Outside of my professional role, I am deeply passionate about community and 
+  giving back to society. Volunteering at local schools(nonprofit) and participating 
+  in teaching mathematics and statistics aimed at making a positive impact on the community. 
+  This brings me immense fulfillment.
+  
+ 
+  
+button1Name: LinkedIn
+button2Name: Download Resume
+button1Target: https://www.linkedin.com/in/olajumoke-akinpelu/
+button2Target: "/cv/resume-matt.pdf"
+image: images/hero/Ola_Akinpelu_1.jpg
+imageMaskPosition: 70px 0px

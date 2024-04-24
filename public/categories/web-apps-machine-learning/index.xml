@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Apps, Machine Learning on Ola Akinpelu Data Science Portfolio</title>
+    <link>//localhost:4321/categories/web-apps-machine-learning/</link>
+    <description>Recent content in Web Apps, Machine Learning on Ola Akinpelu Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2024 12:49:27 +0600</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/web-apps-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product Price Recommendation(R and R Shiny)</title>
+      <link>//localhost:4321/portfolio/project-02/</link>
+      <pubDate>Sat, 13 Jan 2024 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/portfolio/project-02/</guid>
+      <description>View Dashboard Project Requirements ✅ Shiny Web Applications&#xA;✅ HTML and CSS&#xA;✅ Product Gap Analysis using Machine Learning (XGBoost)</description>
+    </item>
+  </channel>
+</rss>

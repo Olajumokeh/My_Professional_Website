@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: Data Scientist/Data Analyst
+content: >
+  # Hi,I'm Ola
+  
+  
+  Ola is a passionate advocate for the power of data. She's all about turning 
+  data into easy-to-understand stories/applications that guide businesses to success.
+buttonName: Contact Ola Akinpelu
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/Ola_Akinpelu_1.jpg
+#videoThumb: images/hero/data-science.gif
+#videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Apps, Predictive Modelling, RFM Analysis on Ola Akinpelu Data Science Portfolio</title>
+    <link>//localhost:4321/categories/web-apps-predictive-modelling-rfm-analysis/</link>
+    <description>Recent content in Web Apps, Predictive Modelling, RFM Analysis on Ola Akinpelu Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2023 12:49:27 +0600</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/web-apps-predictive-modelling-rfm-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Lifetime Value App (R and R Shiny)</title>
+      <link>//localhost:4321/portfolio/project-01/</link>
+      <pubDate>Wed, 13 Dec 2023 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/portfolio/project-01/</guid>
+      <description>View Dashboard Project Requirements ✅ Shiny Web Applications&#xA;✅ HTML and CSS&#xA;✅ Time Series&#xA;✅ Customer Lifetime Value(Machine Learning Approach)&#xA;✅ Classification Models&#xA;✅ Regression Models&#xA;✅ Recency,Frequency and Monetary Analysis</description>
+    </item>
+  </channel>
+</rss>
