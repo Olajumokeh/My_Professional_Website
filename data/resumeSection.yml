@@ -4,7 +4,7 @@ topTitle: My Resume
 title: >
   ## My Experience & Education
 
-  Over 5+ years of data experience working with companies from all over the world.
+  Over 10+ years of experience working with companies from all over the world.
 
 buttonName: "Download Resume PDF"
 buttonTarget: "/cv/resume-ola.pdf"
@@ -22,10 +22,10 @@ experience:
       
       #### Sobeys Inc.
       
-      - Used Predictive analysis(CLV) to optimize loyalty reward program in 5 regions in Canada,leading to
-      __$5M | Year-over-Year(500% increase)__.
+      - Used Predictive analysis(CLV) to optimize loyalty reward program in a retail company across 5 regions in Canada to grow sales
+      __leading to 500% increase Year-over-Year__.
       
-      - Created a dynamic Points per Transaction __Dashboard to track business metrics__ relating to Loyalty reward effectiveness. 
+      - Created a dynamic Points per Transaction __Dashboard in Tableau to track business metrics__ relating to Loyalty reward effectiveness. 
       
       - Applied basket size analysis using SAS to analyse relationship between points accumulation and basket size. Reward structure 
       is adjusted accordingly to incentivize larger purchases __resulting to 5X sales revenue__.
@@ -34,7 +34,7 @@ experience:
       
       - Achieved a __30% reduction in manual data manipulation efforts__ by implementing automated SAS macros, resulting in annual cost savings in labor expenses.
       
-      - Integrated multiple sources of data, streamlining data collection, and provide insights into cohesive presenation to 
+      - Integrated multiple sources of data, streamlining data collection, and provide insights into cohesive presentation to 
         internal executives and stakeholders, helping to identify data trends that __facilitate faster decision making__.
     time: 2022-Present
 
@@ -47,9 +47,9 @@ experience:
       
       - Utilized MySQL to __build database__ and query databases.
       
-      - Perform time series analysis and forecasting to analyse trends, seasonality and patterns in Sales over time to __support planning and decision making__.
+      - Performed time series analysis and forecasting to analyse trends, seasonality and patterns in Sales over time to __support planning and decision making__.
       
-      - __Identify new market opportunities__ and inform expansion strategies from geospatial analysis to analyse location based data to drive revenue growth. 
+      - __Identified new market opportunities__ and informed expansion strategies from geospatial analysis to analyse location based data to drive revenue growth. 
 
     time: 2021-2022
  
@@ -58,7 +58,7 @@ experience:
       
       #### Triple Crown College 
 
-      -  Analyzed student performance data in statistics and mathematics in Excel to identify effective teaching strategies. By examining student outcomes and feedback, I identified 
+      -  Analyzed student performance data in statistics and mathematics in MS Excel to identify my most effective teaching strategies. Examinied student outcomes and feedback, I identified 
          areas for improvement and adjusted teaching methods to better meet the needs of students learning arithmetic concepts.  
 
 
