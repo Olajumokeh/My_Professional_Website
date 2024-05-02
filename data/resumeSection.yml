@@ -7,7 +7,7 @@ title: >
   Over 10+ years of experience working with companies from all over the world.
 
 buttonName: "Download Resume PDF"
-buttonTarget: "/cv/resume-ola.pdf"
+buttonTarget: "/cv/resume_ola.pdf"
 
 tab1Name: Experience
 tab2Name: Education
@@ -23,7 +23,7 @@ experience:
       #### Sobeys Inc.
       
       - Used Predictive analysis(CLV) to optimize loyalty reward program in a retail company across 5 regions in Canada to grow sales
-      leading to __500% increase Year-over-Year__ in the fourth quarter of 2023.
+      leading to __500% increase Year-over-Year__ in the second quarter of 2023.
       
       - Created a dynamic Points per Transaction __Dashboard in Tableau to track business metrics__ relating to Loyalty reward effectiveness. 
       

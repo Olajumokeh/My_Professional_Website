@@ -22,6 +22,6 @@ content: >
 button1Name: LinkedIn
 button2Name: Download Resume
 button1Target: https://www.linkedin.com/in/olajumoke-akinpelu/
-button2Target: "/cv/resume-matt.pdf"
+button2Target: "/cv/resume_ola.pdf"
 image: images/hero/Ola_Akinpelu_1.jpg
 imageMaskPosition: 70px 0px
